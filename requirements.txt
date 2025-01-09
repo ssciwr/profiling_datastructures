@@ -11,3 +11,4 @@ tqdm-stubs
 types-requests
 types-tabulate
 jupyter
+matplotlib
