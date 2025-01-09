@@ -10,3 +10,4 @@ tqdm~=4.67
 tqdm-stubs
 types-requests
 types-tabulate
+jupyter
