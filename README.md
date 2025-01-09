@@ -11,4 +11,4 @@ Personal sandbox for profiling different data structures that serve as intermedi
 ## Diagram pipelines
 [Drawio link](https://drive.google.com/file/d/1fKJMQgAaxbbsBy3vlZAwpqyiJxhq-q5y/view?usp=sharing)
 
-> Note: Instructions in [./scripts/instructions_profiling.md](./scripts/instructions_profiling.md)
+> Note: Instructions in [instructions_profiling](./scripts/instructions_profiling.md)
